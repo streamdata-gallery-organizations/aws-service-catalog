@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeConstraint&k=1:
+  /?Action=DescribeConstraint:
     get:
       summary: ' Describe Constraint '
       description: Retrieves detailed information for a specified constraint
