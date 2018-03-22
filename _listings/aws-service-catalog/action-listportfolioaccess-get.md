@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ListPortfolioAccess&k=1:
+  /?Action=ListPortfolioAccess:
     get:
       summary: ' List Portfolio Access '
       description: |-
