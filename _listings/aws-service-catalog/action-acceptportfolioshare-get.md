@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=AcceptPortfolioShare&k=1:
+  /?Action=AcceptPortfolioShare:
     get:
       summary: ' Accept Portfolio Share '
       description: Accepts an offer to share a portfolio
