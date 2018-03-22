@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=UpdatePortfolio&k=1:
+  /?Action=UpdatePortfolio:
     get:
       summary: ' Update Portfolio '
       description: Updates the specified portfolio's details
