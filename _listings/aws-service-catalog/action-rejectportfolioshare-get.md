@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=RejectPortfolioShare&k=1:
+  /?Action=RejectPortfolioShare:
     get:
       summary: ' Reject Portfolio Share '
       description: Rejects an offer to share a portfolio
