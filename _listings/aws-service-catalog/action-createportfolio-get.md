@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=CreatePortfolio&k=1:
+  /?Action=CreatePortfolio:
     get:
       summary: ' Create Portfolio '
       description: Creates a new portfolio
