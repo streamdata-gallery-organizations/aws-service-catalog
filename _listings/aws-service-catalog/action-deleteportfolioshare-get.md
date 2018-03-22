@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DeletePortfolioShare&k=1:
+  /?Action=DeletePortfolioShare:
     get:
       summary: ' Delete Portfolio Share '
       description: Deletes the specified portfolio share
