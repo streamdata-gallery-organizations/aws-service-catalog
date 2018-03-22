@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ListConstraintsForPortfolio&k=1:
+  /?Action=ListConstraintsForPortfolio:
     get:
       summary: ' List Constraints For Portfolio '
       description: |-
