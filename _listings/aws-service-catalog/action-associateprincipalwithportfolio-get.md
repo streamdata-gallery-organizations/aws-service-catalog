@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=AssociatePrincipalWithPortfolio&k=1:
+  /?Action=AssociatePrincipalWithPortfolio:
     get:
       summary: ' Associate Principal With Portfolio '
       description: Associates the specified principal ARN with the specified portfolio
