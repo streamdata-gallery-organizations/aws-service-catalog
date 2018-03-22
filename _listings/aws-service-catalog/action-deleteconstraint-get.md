@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DeleteConstraint&k=1:
+  /?Action=DeleteConstraint:
     get:
       summary: ' Delete Constraint '
       description: Deletes the specified constraint
