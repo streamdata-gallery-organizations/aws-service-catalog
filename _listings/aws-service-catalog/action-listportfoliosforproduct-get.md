@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ListPortfoliosForProduct&k=1:
+  /?Action=ListPortfoliosForProduct:
     get:
       summary: ' List Portfolios For Product '
       description: Lists all portfolios that the specified product is associated with
