@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ListPortfolios&k=1:
+  /?Action=ListPortfolios:
     get:
       summary: ' List Portfolios '
       description: Lists all portfolios in the catalog
