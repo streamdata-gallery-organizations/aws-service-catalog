@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DisassociateProductFromPortfolio&k=1:
+  /?Action=DisassociateProductFromPortfolio:
     get:
       summary: ' Disassociate Product From Portfolio '
       description: Disassociates the specified product from the specified portfolio
