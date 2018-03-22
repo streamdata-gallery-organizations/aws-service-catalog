@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribePortfolio&k=1:
+  /?Action=DescribePortfolio:
     get:
       summary: ' Describe Portfolio '
       description: |-
