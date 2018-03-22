@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=CreateConstraint&k=1:
+  /?Action=CreateConstraint:
     get:
       summary: ' Create Constraint '
       description: Creates a new constraint
