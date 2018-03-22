@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DisassociatePrincipalFromPortfolio&k=1:
+  /?Action=DisassociatePrincipalFromPortfolio:
     get:
       summary: ' Disassociate Principal From Portfolio '
       description: |-
