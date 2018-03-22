@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=AssociateProductWithPortfolio&k=1:
+  /?Action=AssociateProductWithPortfolio:
     get:
       summary: ' Associate Product With Portfolio '
       description: Associates a product with a portfolio
