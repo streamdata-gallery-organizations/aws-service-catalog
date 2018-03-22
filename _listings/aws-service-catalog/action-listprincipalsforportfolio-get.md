@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ListPrincipalsForPortfolio&k=1:
+  /?Action=ListPrincipalsForPortfolio:
     get:
       summary: ' List Principals For Portfolio '
       description: Lists all principal ARNs associated with the specified portfolio
