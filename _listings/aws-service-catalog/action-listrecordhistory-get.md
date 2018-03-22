@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ListRecordHistory&k=1:
+  /?Action=ListRecordHistory:
     get:
       summary: ' List Record History '
       description: |-
