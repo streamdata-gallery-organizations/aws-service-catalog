@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=CreatePortfolioShare&k=1:
+  /?Action=CreatePortfolioShare:
     get:
       summary: ' Create Portfolio Share '
       description: Creates a new portfolio share
