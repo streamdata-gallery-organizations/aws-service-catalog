@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ListAcceptedPortfolioShares&k=1:
+  /?Action=ListAcceptedPortfolioShares:
     get:
       summary: ' List Accepted Portfolio Shares '
       description: |-
