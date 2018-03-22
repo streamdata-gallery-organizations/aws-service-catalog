@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ListLaunchPaths&k=1:
+  /?Action=ListLaunchPaths:
     get:
       summary: ' List Launch Paths '
       description: Returns a paginated list of all paths to a specified product
