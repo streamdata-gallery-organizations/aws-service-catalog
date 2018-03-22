@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=UpdateConstraint&k=1:
+  /?Action=UpdateConstraint:
     get:
       summary: ' Update Constraint '
       description: Updates an existing constraint
