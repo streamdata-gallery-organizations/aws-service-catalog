@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: aws-service-catalog.api.streamdata.gallery
+title: Streamdata Gallery AWS Service Catalog
+url: aws-service-catalog.streamdata.gallery
 tag: AWS Service Catalog
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: aws-service-catalog
 github_branch: master
 collections:
