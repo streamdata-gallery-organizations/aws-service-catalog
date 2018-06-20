@@ -5,7 +5,7 @@ description: This is a repository of aws service catalog APIs, self-contained as
   operations.
 image: http://template.streamdata.gallery/assets/aws-service-catalog.png
 created: "2018-02-24"
-modified: "2018-05-24"
+modified: "2018-06-20"
 url: http://aws-service-catalog.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []

@@ -10,10 +10,10 @@ description: AWS Service Catalog allows organizations to create and manage catal
   IT services they need.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSServiceCatalog.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: AWS Service Catalog
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-service-catalog/master/_listings/aws-service-catalog/apis.md
 specificationVersion: "0.14"
 apis:
